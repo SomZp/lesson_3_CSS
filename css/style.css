@@ -1,0 +1,44 @@
+div {
+	color: brown;
+}
+
+div.text{
+	color: grey;
+}
+p{
+	color:red;
+}
+
+div p {
+	color: green;
+}
+
+span {
+	color: #000;
+}
+footer p{
+	color: blueviolet;
+}
+.text p {
+	color: yellowgreen;
+}
+
+.text + p{
+	color: blue;
+}
+
+h2 {
+	color: orchid;
+}
+
+h3 {
+	color: orange;
+}
+
+h4 {
+	color: rebeccapurple;
+}
+
+h5 {
+	color: mediumslateblue;
+}
